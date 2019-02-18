@@ -1,36 +1,15 @@
-## Welcome to GitHub Pages
+## Home Of The Cougars?
 
-You can use the [editor on GitHub](https://github.com/jfmartin10/Fair-Catawba/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Previously the home of the Indians, Catawba College is rumoured to change it's mascot from the Indians to the Cougars!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Rumours all around campus seem to become true sooner rather than later, but why this and why now? 
 
-### Markdown
+### The Reason(s)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is not the first time Catawba College's mascot has been under the spot light. The first time was actually in 2006 when the NCAA prohibited Catawba from using the mascot unless they were given consent from the Catawba Indian tribe. In the end, Catawba College got permission from the Catawba Tribe and was able to keep it's mascot. 
+Today, it seems that political unease regarding Native Americans is a talking point in the world of sports, just take a look at the Washington Redskins case. Perhaps Catawba College is looking to subside any mascot related scandals before they start again, or maybe they're just looking to revamp and refresh the school's athletic image with a new look. Whatever the reason, Catawba College has an exciting decision to make.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jfmartin10/Fair-Catawba/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
